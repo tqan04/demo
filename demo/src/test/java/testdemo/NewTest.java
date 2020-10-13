@@ -11,6 +11,7 @@ public class NewTest {
   }
   @BeforeTest
   public void beforeTest() {
+	  System.out.println("BeforeTest function");
   }
 
   @AfterTest
